@@ -12,7 +12,9 @@ ssh-keygen -t rsa -b 4096 -C "your_email"
 ```
 #### Steo #2: You can keep default file name and passphrase by enter 
 <img src="newkey.PNG">
-#### Steo #3: Start SSH keygen
+
+#### Step #3: Start SSH keygen
+
 ```bash
 eval $(ssh-agent -s)
 ```
