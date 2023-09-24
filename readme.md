@@ -31,7 +31,7 @@ clip < ~/.ssh/id_rsa.pub
 
 #### Steo #6: Put SSH key into GitHub Account
 
-<i> GitHub account > Settings > SSH and GPG keys > New SSH Key<i>
+<i> GitHub account > Settings > SSH and GPG keys > New SSH Key</i>
 <img src="github.PNG">
 
 #### Reference:
