@@ -33,3 +33,6 @@ clip < ~/.ssh/id_rsa.pub
 
 <i> GitHub account > Settings > SSH and GPG keys > New SSH Key<i>
 <img src="github.PNG">
+
+#### Reference:
+Video: https://www.youtube.com/watch?v=WgZIv5HI44o&t=110s
